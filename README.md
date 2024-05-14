@@ -8,7 +8,7 @@
 
 - 📚 I'm a Year 2 Design and Artificial Intelligence Undergraduate at [Singapore University of Design and Technology](https://www.sutd.edu.sg/).
 - 🌱 Graduated from [Tampines Meridian Junior College](https://www.tmjc.moe.edu.sg/)  
-- 🍖During my free time i like to tinker with things and find new ways to cook scrumptious meals. 
+- 🍖During my free time I like to tinker with things and find new ways to cook scrumptious meals. 
 - :trollface: I am currently working on building a hand-wired ortholinear keyboard.
 - 📫 How to reach me 1007787@mymail.sutd.edu.sg
 
