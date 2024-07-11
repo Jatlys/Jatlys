@@ -10,7 +10,7 @@
 - 🌱 Graduated from [Tampines Meridian Junior College](https://www.tmjc.moe.edu.sg/)  
 - 🍖During my free time I like to tinker with things and find new ways to cook scrumptious meals. 
 - :trollface: I am currently working on building a hand-wired ortholinear keyboard.
-- 📫 You can reach me on 1007787@mymail.sutd.edu.sg
+- 📫 You can reach me on jatlyson_ang@mymail.sutd.edu.sg
 
 ### Languages and Technologies:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
